@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'silkscreennormal';
+    src: url('../assets/font/slkscr-webfont.woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body{
+    background: #0c0c0c;
+}
+
+h2 {
+    font-family: 'silkscreennormal';
+    color: whitesmoke;
+    text-align: center;
+    margin: 100px auto 0 auto;
+}
+
+#canvas {
+    display: block;
+    margin: 25px auto;
+}
